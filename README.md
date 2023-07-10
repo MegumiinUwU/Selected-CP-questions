@@ -1,6 +1,6 @@
 # Selected CP Q&A
 
-In this repo, you can find some problem-solving and competitive programming questions with answers selected from different resources.
+In this repo, you can find some problem-solving and competitive programming questions with answers selected from different sources.
 
 -  You can find the link for each Q commented.
 
